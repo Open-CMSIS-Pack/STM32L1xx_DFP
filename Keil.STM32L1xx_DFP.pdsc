@@ -2828,7 +2828,7 @@ Typical applications include Medical and handheld equipment, Application control
         #define CMSIS_device_header "stm32l1xx.h"
       </RTE_Components_h>
       <files>
-        <file category="doc" name="https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/CubeMX.md"/>
+        <file category="doc" name="https://open-cmsis-pack.github.io/cmsis-toolbox/CubeMX/"/>
       </files>
     </component>
   </components>

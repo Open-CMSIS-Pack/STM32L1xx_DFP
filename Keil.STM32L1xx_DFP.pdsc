@@ -13,13 +13,8 @@
   </licenseSets>
 
   <releases>
-    <release version="2.0.2-dev">
+    <release version="2.1.1-dev">
       Active development ...
-      Device support:
-      - Updated debug configuration files (MCU APBx Freeze registers)
-      Updated Templates:
-      - Added DWARF-5 debug information
-      - Added generated output files
     </release>
     <release version="1.4.1" date="2022-02-01">
       Updated Pack to STM32Cube_FW_L1 Firmware Package version V1.10.3.
